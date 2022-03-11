@@ -10,5 +10,5 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Apllication Developer at Thoughtworks who is always excited and passionate to work on cutting-edge technologies. </br>
+🎓 I’m an Application Developer at Thoughtworks who is always excited and passionate to work on cutting-edge technologies. </br>
 👨‍💻  I am passionate about Software Development, Machine Learning, Data Science, Cloud computing(GCP and AWS), Automation, Web Development, Database Management, Real-life problem solving, etc & I enjoy learning new things. </br>
